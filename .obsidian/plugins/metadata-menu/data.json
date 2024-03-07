@@ -1,0 +1,49 @@
+{
+  "presetFields": [
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "Max-Inventory-Weight",
+      "id": "lH0Ok9",
+      "path": "",
+      "fileClassName": "SizedInventory"
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "system/schema/",
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "type",
+  "settingsVersion": "5.2",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
+  "tableViewMaxRecords": 20,
+  "frontmatterListDisplay": "asList",
+  "fileClassExcludedFolders": [],
+  "showIndexingStatusInStatusBar": true,
+  "fileIndexingExcludedFolders": [
+    "system data/"
+  ],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [],
+  "frontmatterOnly": false,
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": true,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true
+}

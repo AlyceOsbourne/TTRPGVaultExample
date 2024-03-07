@@ -1,0 +1,34 @@
+{
+  "colorRules": [
+    {
+      "id": "frontmatter-private-c44545",
+      "value": "Game/Item",
+      "type": "folder",
+      "color": "#05ca02"
+    },
+    {
+      "id": "1709483712161",
+      "value": "Game/Location",
+      "type": "folder",
+      "color": "#00fffb"
+    },
+    {
+      "id": "1709483736187",
+      "value": "Game/NPC",
+      "type": "folder",
+      "color": "#fbff00"
+    },
+    {
+      "id": "1709483754850",
+      "value": "Game/Quest",
+      "type": "folder",
+      "color": "#bb00ff"
+    },
+    {
+      "id": "1709483773830",
+      "value": "system data",
+      "type": "folder",
+      "color": "#ff0000"
+    }
+  ]
+}

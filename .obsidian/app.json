@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "defaultViewMode": "preview",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "readableLineLength": false,
+  "useTab": false,
+  "showLineNumber": true
+}

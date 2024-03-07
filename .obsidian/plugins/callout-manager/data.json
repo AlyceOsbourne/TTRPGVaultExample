@@ -1,0 +1,36 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "Data": [
+        {
+          "changes": {
+            "icon": "lucide-zap"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "137, 180, 250"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "137, 180, 250"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

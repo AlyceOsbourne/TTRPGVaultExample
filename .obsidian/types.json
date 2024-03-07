@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Gives": "multitext",
+    "Description": "multitext",
+    "location": "multitext",
+    "Hostile": "checkbox",
+    "Immortal": "checkbox",
+    "Key Item": "checkbox",
+    "mapmarker": "multitext",
+    "Linked-To": "multitext",
+    "SubLocations": "multitext",
+    "hide": "checkbox",
+    "NPCs": "multitext"
+  }
+}
