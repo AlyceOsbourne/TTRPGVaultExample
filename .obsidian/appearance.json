@@ -1,6 +1,13 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin",
-  "baseFontSize": 22,
-  "baseFontSizeAction": true
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 24,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "style",
+    "fints",
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ],
+  "theme": "obsidian"
 }

@@ -1,6 +1,6 @@
 {
   "devMode": false,
-  "ignoreCodeBlockRestrictions": false,
+  "ignoreCodeBlockRestrictions": true,
   "preferredDateFormat": "YYYY-MM-DD",
   "useUsDateInputOrder": false,
   "firstWeekday": {
@@ -17,8 +17,5 @@
   "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [],
   "buttonTemplates": [],
-  "excludedFolders": [
-    "templates",
-    "data"
-  ]
+  "excludedFolders": []
 }

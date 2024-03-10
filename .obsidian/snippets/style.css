@@ -1,0 +1,5 @@
+.split {
+  display:flex;
+  webkit-flex-direction:row;
+  webkit-flex-grow: 1;
+}

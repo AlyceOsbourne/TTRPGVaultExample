@@ -56,11 +56,15 @@ fields:
     path: lPGsOe
     id: 4Ky06I
   - name: Banner
-    type: File
-    options: {}
+    type: Media
+    options:
+      embed: true
+      folders: []
+      display: card
+      thumbnailSize: ""
     path: ""
-    id: gEASva
-version: "2.19"
+    id: D0gWh4
+version: "2.24"
 limit: 20
 mapWithTag: false
 icon: package
@@ -72,7 +76,7 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - gEASva
+  - D0gWh4
   - LKAgwH
   - gqds9X
   - CbVqhC
@@ -96,7 +100,7 @@ actions:
     command: metadata-menu:insert_missing_fields
 ```
 **Hide Properties**: `INPUT[toggle:hide]`  **Add Missing Properties**: `BUTTON[Missing]`
-> [!info]- Description
-> **Short**: `=this.Description["Short"]`
-> **Long**:  `=this.Description["Long"]`
-> **Detailed**: `=this.Description["Detailed"]`
+> [!info|left|wfull]- Description
+> - Short: `=this.Description["Short"]`
+> - Long:  `=this.Description["Long"]`
+> - Detailed: `=this.Description["Detailed"]`

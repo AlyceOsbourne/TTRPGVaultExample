@@ -1,0 +1,9 @@
+{
+  "catppuccin-interface-styles@@ctp-bold-folder-title": true,
+  "ITS@@select": "wotc-beyond",
+  "ITS@@indentation-guide-width": 0,
+  "ITS@@root-list-spacing": 5,
+  "ITS@@list-spacing": 1,
+  "ITS@@list-bullet-side-lines": false,
+  "ITS@@alternate-indent": false
+}

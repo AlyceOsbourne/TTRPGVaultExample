@@ -4,36 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6efb9e699aa814d3",
+        "id": "f9dabcfa066c6734",
         "type": "tabs",
         "children": [
           {
-            "id": "18c99bf4ffabc5f8",
+            "id": "966c19bbb08f4476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example Trader.md",
-                "mode": "preview",
+                "file": "system/templates/NPC Instance.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "771f77554a08edc1",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__NPCs/NPC",
-              "state": {}
-            }
-          },
-          {
-            "id": "a0f8671d5168936d",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__World/Location",
-              "state": {}
             }
           }
         ]
@@ -50,7 +34,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f539a091e6368628",
+            "id": "0b934c177cdadc09",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Trader",
+                "query": "tag:#CraftingStation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,10 +67,10 @@
             }
           },
           {
-            "id": "8c7b301d48b8f038",
+            "id": "e2f67b09fb8744bc",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
+              "type": "surfing-tab-tree",
               "state": {}
             }
           }
@@ -105,35 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bd3378704808321",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Example Trader.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "33be23ee0b3a30b5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Example Trader.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "2cf2664b6e7e76e5",
             "type": "leaf",
             "state": {
@@ -145,17 +100,36 @@
             }
           },
           {
-            "id": "286038f306b74375",
+            "id": "8b2684e4bb61909a",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Example Trader.md"
+                "file": "system/templates/NPC Instance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e36e81a4092a60c8",
+            "id": "7684dc13eebb15d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "system/templates/NPC Instance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd9cdb05138d0420",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,9 +139,26 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "3d0fbb18ab67cb54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "system/templates/NPC Instance.md"
+              }
+            }
+          },
+          {
+            "id": "c19375e8edf99f8f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,54 +167,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "hide-folders:Hide hidden folders again": true,
       "command-palette:Open command palette": false,
+      "templates:Insert template": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
-      "templates:Insert template": true,
       "graph:Open graph view": true,
+      "templater-obsidian:Templater": false,
+      "hide-folders:Hide hidden folders again": false,
       "3d-graph-new:Global 3D Graph": false,
-      "templater-obsidian:Templater": false
+      "cmdr:Templater: Create new note from template": false
     }
   },
-  "active": "18c99bf4ffabc5f8",
+  "active": "966c19bbb08f4476",
   "lastOpenFiles": [
-    "Example Item.md",
-    "Example Location A.md",
-    "Example Location B.md",
-    "Example Trader.md",
-    "system/schema/NPCs/NPC.md",
-    "Dark Elf.md",
-    "system/schema/Base.md",
-    "system/schema/NPCs/Encounter.md",
-    "system/schema/World/Location.md",
+    "system/templates/Item Instance.md",
+    "system/templates/Location Instance.md",
     "system/templates/NPC Instance.md",
     "system/templates/Trader Instance.md",
-    "system/schema/NPCs/Trader.md",
-    "RPGTemplate",
-    "system/schema/Items/Loot.md",
-    "system/templates/Base.md",
-    "system/schema/World",
-    "NPCs/Trader NPC.md",
-    "system/schema/NPCs",
-    "system/schema/Items",
-    "Controls.md",
-    "NPCs/NPC.md",
-    "NPCs",
-    "system/schema/Items/Item.md",
-    "system/schema/Crafting/CraftingStation.md",
-    "system/schema/World/Quest.md",
-    "system/schema/Crafting/CraftingRecipe.md",
-    "system/schema/Crafting",
-    "system/templates",
-    "system/schema/Items/Inventory.md",
-    "system/assets",
-    "system/schema/DialogTree.md",
-    "system/views/Crafting Recipe View.md",
-    "system/views/Trader View.md",
-    "Bob.md",
-    "game",
-    "system/views",
+    "data/cratfing/Anvil.md",
+    "system/Untitled",
+    "system/schema/NPC.md",
+    "system/schema/CraftingStation.md",
+    "data/npcs/Barry the Blacksmith.md",
+    "system/schema/Quest.md",
+    "system/schema/Trader.md",
+    "system/schema/Base.md",
+    "data/items/Bronze Sword.md",
+    "data/locations/Example Mine.md",
+    "data/items/Coal.md",
+    "data/items/Bronze Ingot.md",
+    "data/cratfing/Smelter.md",
+    "data/items/Tin Ingot.md",
+    "system/info/Links.md",
+    "data/items/Copper Ore.md",
+    "data/npcs/Mandy the Miner.md",
+    "data/locations/Example Town.md",
+    "system/schema/Location.md",
+    "data/items/Iron Ingot.md",
+    "data/items/Tin Ore.md",
+    "data/items/Copper Ingot.md",
+    "system/schema/Encounter.md",
+    "system/info",
+    "docs",
+    "data/locations",
+    "data/quests",
+    "data/cratfing",
+    "data/items",
+    "data/npcs",
+    "sessions",
+    "Untitled.canvas",
+    "data",
+    "Pasted image 20240307205654.png",
     "assets/World Map.png",
     "assets/World Map.png",
     "assets/175dad1f-c3a3-45ed-bc43-3421e13a57fe.webp",
@@ -234,7 +228,6 @@
     "assets/Design_a_Point_of_Interest_(POI)_map_marker_with_transparency (Custom).png",
     "assets/286c015c-91b8-485c-85c4-f290fda09941 (Custom).png",
     "assets/286c015c-91b8-485c-85c4-f290fda09941 (Small).png",
-    "assets/286c015c-91b8-485c-85c4-f290fda09941.png",
     "Overview.canvas",
     "game data/world map.canvas"
   ]

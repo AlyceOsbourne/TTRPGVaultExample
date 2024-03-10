@@ -1,0 +1,11 @@
+{
+  "id": "rainbow-brackets",
+  "name": "Rainbow Brackets",
+  "version": "0.1.0",
+  "min_obsidian_version": "0.12.0",
+  "description": "Highlights matching brackets in the editor with rainbow colors for improved readability.",
+  "author": "Your Name",
+  "isDesktopOnly": false,
+  "authorUrl": "https://yourwebsite.com",
+  "repo": "https://github.com/yourusername/rainbow-brackets"
+}

@@ -41,20 +41,17 @@ var MetadataHider = class extends import_obsidian.Plugin {
     this.debounceUpdateCSS = (0, import_obsidian.debounce)(this.updateCSS, 1e3, true);
   }
   async onload() {
-    console.log("metadata hider onload");
     await this.loadSettings();
     this.addSettingTab(new MetadataHiderSettingTab(this.app, this));
     this.updateCSS();
     this.registerDomEvent(document, "focusin", (evt) => {
       var _a;
-      console.log("focusin", evt);
       const target = evt.target;
       const metadataElement = document.querySelector(".workspace-leaf.mod-active .metadata-container");
       if (metadataElement === null) {
         return;
       }
       if (metadataElement == null ? void 0 : metadataElement.contains(target)) {
-        console.log(target);
         metadataElement.classList.add("is-active");
         this.isMetadataFocused = true;
         if ((_a = target == null ? void 0 : target.classList) == null ? void 0 : _a.contains("metadata-add-button")) {
@@ -71,7 +68,6 @@ var MetadataHider = class extends import_obsidian.Plugin {
       }
     });
     this.registerDomEvent(document, "focusout", (evt) => {
-      console.log("focusout", evt);
       const target = evt.target;
       const metadataElement = document.querySelector(".workspace-leaf.mod-active .metadata-container");
       if (metadataElement == null ? void 0 : metadataElement.contains(target)) {
@@ -96,7 +92,6 @@ var MetadataHider = class extends import_obsidian.Plugin {
     var _a;
     this.styleTag = document.createElement("style");
     this.styleTag.id = "css-metadata-hider";
-    console.log(document.getElementsByTagName("head"));
     let headElement = document.getElementsByTagName("head")[0];
     const existingStyleTag = headElement.querySelector("#" + this.styleTag.id);
     if (existingStyleTag) {

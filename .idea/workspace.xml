@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25858c19-896b-452c-af93-409197c751a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.makemd/fileCache.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.makemd/superstate.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/appearance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/callout-manager/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/callout-manager/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/callout-manager/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/callout-manager/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/colorful-note-borders/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/colorful-note-borders/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/colorful-note-borders/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/colorful-note-borders/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/markdown-attributes/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/markdown-attributes/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/metaedit/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/metaedit/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-banners/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-banners/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-banners/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-banners/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/snippets/fints.css" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/snippets/fints.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/types.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/types.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dark Elf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example Item.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example Location A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example Location B.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example Trader.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/Base.md" beforeDir="false" afterPath="$PROJECT_DIR$/system/schema/Base.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/Crafting/CraftingRecipe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/Crafting/CraftingStation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/Items/Inventory.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/Items/Item.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/Items/Loot.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/NPCs/Encounter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/NPCs/NPC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/NPCs/Trader.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/World/Location.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/schema/World/Quest.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/templates/NPC Instance.md" beforeDir="false" afterPath="$PROJECT_DIR$/system/templates/NPC Instance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/templates/Trader Instance.md" beforeDir="false" afterPath="$PROJECT_DIR$/system/templates/Trader Instance.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dNR9mH4lZlDpIOvKzgTRZDcBDQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25858c19-896b-452c-af93-409197c751a9" name="Changes" comment="" />
+      <created>1709846407851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709846407851</updated>
+    </task>
+    <servers />
+  </component>
+</project>
